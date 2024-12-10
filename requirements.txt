@@ -1,0 +1,7 @@
+# invoke this by running: pip install -r requirements.txt
+
+# Needed to use ollama as the inference server
+ollama
+
+# Needed to use the Open AI APIs
+openai
