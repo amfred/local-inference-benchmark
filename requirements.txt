@@ -2,3 +2,6 @@
 
 # Needed to use ollama as the inference server
 ollama
+
+# Needed to use the Open AI APIs
+openai
